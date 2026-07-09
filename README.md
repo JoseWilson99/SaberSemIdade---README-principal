@@ -56,26 +56,27 @@ Execute esse arquivo utilizando o MySQL Workbench (ou outro gerenciador compatí
 
 ## ⚙️ Como Rodar o Back-end
 
-1. Abra um terminal na pasta do back-end.
-2. Configure o arquivo:
+Clonar o reporsitório:
 
-text
-src/main/resources/application.properties
+Abra o terminal do git e clone o repositório com o seguinte comando: git clone https://github.com/JoseWilson99/SaberSemIdade---Back-End.git
 
+Use o comando: cd SaberSemIdade---Back-End
 
-informando o usuário e a senha do seu MySQL.
+Em uma IDE configure o arquivo: src/main/resources/application.properties
 
-3. Execute o projeto utilizando o Maven:
+Informando o usuário e a senha do seu MySQL.
+Nas linhas:
+7 - spring.datasource.username= usuario_bd
+8 - spring.datasource.password= senha_do_seu_bd
 
-bash
-./mvnw spring-boot:run
+3. Lembre-se de configurar a sua IDE com o Maven e a JDK.
+   
+Versão do Java utilizada= JDK-21
 
+Caso utilize o Maven instalado na máquina:
 
-ou, caso utilize o Maven instalado na máquina:
-
-bash
-mvn spring-boot:run
-
+No terminal do git bash é possível executar o comando:
+mvnw spring-boot:run
 
 A API será iniciada na porta *8080*.
 
@@ -88,7 +89,6 @@ A API será iniciada na porta *8080*.
 
 bash
 npm install
-
 
 3. Execute a aplicação:
 
