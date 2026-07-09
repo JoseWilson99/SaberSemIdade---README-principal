@@ -103,7 +103,7 @@ http://localhost:5173
 
 ---
 
-Seção 3 -SCRIPT SQL (Banco de Dados)
+Seção 3 -SCRIPT SQL (Banco de Dados) - schema_projetofinal.sql
 
 MySQL:
 
