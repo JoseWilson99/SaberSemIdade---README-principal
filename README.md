@@ -2,7 +2,7 @@
 
 ## Inclusão digital e alfabetização tecnológica para quem tem história para contar.
 
-O *Saber Sem Idade* é uma plataforma desenvolvida para promover a inclusão digital da terceira idade, oferecendo um ambiente simples, seguro e intuitivo para cadastro de usuários, gerenciamento de cursos e matrículas.
+O Saber Sem Idade é uma plataforma desenvolvida para promover a inclusão digital da terceira idade, oferecendo um ambiente simples, seguro e intuitivo para cadastro de usuários, gerenciamento de cursos e matrículas.
 
 O projeto busca incentivar a autonomia tecnológica das pessoas idosas, contribuindo para a redução da exclusão digital e do isolamento social por meio de uma solução acessível e de fácil utilização.
 
@@ -10,11 +10,11 @@ O projeto busca incentivar a autonomia tecnológica das pessoas idosas, contribu
 
 # Seção 1 - Sobre o Projeto
 
-*Nome do Projeto:* Saber Sem Idade
+Nome do Projeto: Saber Sem Idade
 
-*ODS Escolhida:* ODS 4 – Educação de Qualidade
+ODS Escolhida: ODS 4 – Educação de Qualidade
 
-*Aluno:* Jose Wilson Lélis de Aragão Neto
+Aluno: Jose Wilson Lélis de Aragão Neto
 
 ## Objetivo
 
