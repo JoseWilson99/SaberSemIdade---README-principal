@@ -1,4 +1,4 @@
-# 📢 Saber Sem Idade
+# Saber Sem Idade
 
 ## Inclusão digital e alfabetização tecnológica para quem tem história para contar.
 
@@ -8,7 +8,7 @@ O projeto busca incentivar a autonomia tecnológica das pessoas idosas, contribu
 
 ---
 
-# 👥 Seção 1 - Sobre o Projeto
+# Seção 1 - Sobre o Projeto
 
 *Nome do Projeto:* Saber Sem Idade
 
@@ -41,20 +41,19 @@ Desenvolver uma plataforma web para gerenciamento de usuários, cursos e matríc
 
 ---
 
-# 🚀 Seção 2 - Como Rodar o Projeto
+#  Seção 2 - Como Rodar o Projeto
 
-## 🗄️ Banco de Dados
+##  Banco de Dados
 
 Na raiz do projeto encontra-se o arquivo:
 
 schema_projetofinal.sql
 
-
 Execute esse arquivo utilizando o MySQL Workbench (ou outro gerenciador compatível) para criar o banco de dados e todas as tabelas necessárias para o funcionamento da aplicação.
 
 ---
 
-## ⚙️ Como Rodar o Back-end
+##  Como Rodar o Back-end
 
 Clonar o reporsitório:
 
@@ -82,7 +81,7 @@ A API será iniciada na porta *8080*.
 
 ---
 
-## 💻 Como Rodar o Front-end
+##  Como Rodar o Front-end
 
 1. Abra um terminal na pasta do front-end.
 2. Instale as dependências do projeto:
@@ -94,7 +93,6 @@ npm install
 
 bash
 npm run dev
-
 
 4. Abra o navegador e acesse:
 
@@ -191,9 +189,7 @@ INSERT INTO Matriculas (usuario_id, curso_id, status) VALUES
 (2, 7, 'CONCLUIDO'),
 (3, 9, 'ATIVO');
 
-
-
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 text
 Saber-Sem-Idade/
