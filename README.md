@@ -14,7 +14,7 @@ Nome do Projeto: Saber Sem Idade
 
 ODS Escolhida: ODS 4 – Educação de Qualidade
 
-Aluno: Jose Wilson Lélis de Aragão Neto
+Aluno: José Wilson Lélis de Aragão Neto
 
 ## Objetivo
 
